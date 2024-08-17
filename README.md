@@ -1,0 +1,2 @@
+# meurepositorio
+blue  team exercicio
